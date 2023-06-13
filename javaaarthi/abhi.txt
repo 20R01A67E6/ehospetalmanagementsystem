@@ -1,0 +1,21 @@
+Date of admission: 13/06/2023 21:25:26
+Name : abhi
+Address : moon
+Contact Number : 100
+Age : 100
+Sex : m
+Blood Group : h
+Any Major disease suffered earlier : cold
+Patient ID : 23
+
+********************************************************************
+
+
+Description of the day:13/06/2023 21:32:06
+Doctor appointed: raam
+Symptoms : ear
+Diagnosis : lol
+Medicines : paracitamol
+Addmission Required? : y
+*************************************************************************
+
